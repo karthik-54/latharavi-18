@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#user exists program
 read -p "Enter username : " username
 read -s -p "Enter password : " password
 
